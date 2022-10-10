@@ -1,0 +1,16 @@
+account\service\AccountServiceImpl.class
+account\domain\User.class
+account\domain\TimePeriod.class
+account\domain\Item.class
+account\client\StatisticsServiceClient.class
+account\client\StatisticsServiceClientFallback.class
+account\config\ResourceServiceConfig.class
+account\AccountApplication.class
+account\repository\AccountRepository.class
+account\domain\Account.class
+account\domain\Currency.class
+account\service\AccountService.class
+account\service\security\CustomUserInfoTokenServices.class
+account\controller\AccountController.class
+account\client\AuthServiceClient.class
+account\domain\Saving.class
