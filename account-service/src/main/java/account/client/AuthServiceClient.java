@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.print.attribute.standard.Media;
 import java.awt.*;
 
-@FeignClient(name = "auth-service")
+@FeignClient(name = "auth-com.service")
 public interface AuthServiceClient {
     @RequestMapping(method = RequestMethod.POST,value = "/uaa/users",consumes = MediaType.APPLICATION_JSON_UTF8_VALUE)
     void createUser(User user);

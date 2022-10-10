@@ -19,25 +19,25 @@ zuul:
   routes:
     auth-service:
         path: /uaa/**
-        url: http://auth-service:5000
+        url: http://auth-com.service:5000
         stripPrefix: false
         sensitiveHeaders:
 
     account-service:
         path: /accounts/**
-        serviceId: account-service
+        serviceId: account-com.service
         stripPrefix: false
         sensitiveHeaders:
 
     statistics-service:
         path: /statistics/**
-        serviceId: statistics-service
+        serviceId: statistics-com.service
         stripPrefix: false
         sensitiveHeaders:
 
     notification-service:
         path: /notifications/**
-        serviceId: notification-service
+        serviceId: notification-com.service
         stripPrefix: false
         sensitiveHeaders:
 
