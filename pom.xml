@@ -13,6 +13,8 @@
         <module>com.config</module>
         <module>gateway</module>
         <module>monitoring</module>
+        <module>notification-service</module>
+        <module>registry</module>
     </modules>
     <packaging>pom</packaging>
     <name>microservice</name>

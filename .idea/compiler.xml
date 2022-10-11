@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="auth-service" />
         <module name="account-service" />
+        <module name="monitoring" />
         <module name="gateway" />
         <module name="com.config" />
+        <module name="notification-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +25,8 @@
       <module name="com.config" options="-parameters" />
       <module name="config" options="-parameters" />
       <module name="gateway" options="-parameters" />
+      <module name="monitoring" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
     </option>
   </component>
 </project>
