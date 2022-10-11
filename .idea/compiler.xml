@@ -6,27 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="registry" />
         <module name="auth-service" />
+        <module name="statistics-service" />
+        <module name="turbine-stream-service" />
         <module name="account-service" />
         <module name="monitoring" />
+        <module name="config" />
         <module name="gateway" />
-        <module name="com.config" />
         <module name="notification-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="config" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="account-service" options="-parameters" />
       <module name="auth-service" options="-parameters" />
-      <module name="com.config" options="-parameters" />
       <module name="config" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="monitoring" options="-parameters" />
       <module name="notification-service" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="statistics-service" options="-parameters" />
+      <module name="turbine-stream-service" options="-parameters" />
     </option>
   </component>
 </project>

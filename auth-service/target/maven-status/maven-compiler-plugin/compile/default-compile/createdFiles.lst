@@ -1,0 +1,8 @@
+com\config\OAuth2AuthorizationConfig.class
+com\AuthApplication.class
+com\domain\User.class
+com\config\WebSecurityConfig.class
+com\repository\UserRepository.class
+com\service\UserServiceImpl.class
+com\service\security\MongoUserDetailsService.class
+com\service\UserService.class

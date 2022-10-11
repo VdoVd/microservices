@@ -8,13 +8,15 @@
     <artifactId>microservices</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>account-com.service</module>
-        <module>auth-com.service</module>
-        <module>com.config</module>
+        <module>account-service</module>
+        <module>auth-service</module>
+        <module>config</module>
         <module>gateway</module>
         <module>monitoring</module>
         <module>notification-service</module>
         <module>registry</module>
+        <module>statistics-service</module>
+        <module>turbine-stream-service</module>
     </modules>
     <packaging>pom</packaging>
     <name>microservice</name>

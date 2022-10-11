@@ -10,5 +10,8 @@
     <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monitoring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/statistics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-stream-service/src/main/java" charset="UTF-8" />
   </component>
 </project>

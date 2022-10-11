@@ -1,0 +1,17 @@
+D:\project\java\microservices\notification-service\src\main\java\com\domain\Recipient.java
+D:\project\java\microservices\notification-service\src\main\java\com\repository\converter\FrequencyWriterConverter.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\NotificationServiceImpl.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\EmailServiceImpl.java
+D:\project\java\microservices\notification-service\src\main\java\com\controller\RecipientController.java
+D:\project\java\microservices\notification-service\src\main\java\com\NotificationServiceApplication.java
+D:\project\java\microservices\notification-service\src\main\java\com\repository\RecipientRepository.java
+D:\project\java\microservices\notification-service\src\main\java\com\repository\converter\FrequencyReaderConverter.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\RecipientService.java
+D:\project\java\microservices\notification-service\src\main\java\com\config\ResourceServiceCOnfig.java
+D:\project\java\microservices\notification-service\src\main\java\com\domain\Frequency.java
+D:\project\java\microservices\notification-service\src\main\java\com\domain\NotificationSettings.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\RecipientServiceImpl.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\EmailService.java
+D:\project\java\microservices\notification-service\src\main\java\com\domain\NotificationType.java
+D:\project\java\microservices\notification-service\src\main\java\com\client\AccountServiceClient.java
+D:\project\java\microservices\notification-service\src\main\java\com\service\NotificationService.java
