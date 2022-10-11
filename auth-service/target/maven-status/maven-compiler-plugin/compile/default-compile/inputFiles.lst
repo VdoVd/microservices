@@ -1,8 +1,0 @@
-D:\project\java\microservices\auth-service\src\main\java\com\config\WebSecurityConfig.java
-D:\project\java\microservices\auth-service\src\main\java\com\AuthApplication.java
-D:\project\java\microservices\auth-service\src\main\java\com\domain\User.java
-D:\project\java\microservices\auth-service\src\main\java\com\service\UserServiceImpl.java
-D:\project\java\microservices\auth-service\src\main\java\com\repository\UserRepository.java
-D:\project\java\microservices\auth-service\src\main\java\com\config\OAuth2AuthorizationConfig.java
-D:\project\java\microservices\auth-service\src\main\java\com\service\security\MongoUserDetailsService.java
-D:\project\java\microservices\auth-service\src\main\java\com\service\UserService.java
