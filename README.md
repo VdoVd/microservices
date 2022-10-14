@@ -1,7 +1,12 @@
-此项目借鉴于微服务项目piggymetrics,是入门微服务的好选择,项目源地址为https://github.com/sqshq/piggymetrics.git
+the project is learned by another project piggymetrics,is a good choice to know about microservices,the git project ishttps://github.com/sqshq/piggymetrics.git
 
-至少需要4G内存
-打包与部署,linux环境部署，需要安装docker与docker-compose,maven,
-在根目录运行`mvn package [-DskipTests]`对项目打包,
-在根目录运行'docker-compose -f docker-compose.yml -f docker-compose.dev.yml up' 
-打开本地localhost即可看到登陆页面
+## to deployment project
+at least 4GRAM\
+need to install docker and docker-compose maven in linux,linux is a good choice to deployment\
+at root directory to run:\
+### `mvn package [-DskipTests]` 
+to make jar package.
+at root directory to run:\
+### 'docker-compose -f docker-compose.yml -f docker-compose.dev.yml up' 
+
+open localhost,and you can see the login page.
