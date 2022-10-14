@@ -1,8 +1,8 @@
 the project is learned by another project piggymetrics,is a good choice to know about microservices,the git project ishttps://github.com/sqshq/piggymetrics.git
 
 ## to deployment project
-at least 4GRAM\
-need to install docker and docker-compose maven in linux,linux is a good choice to deployment\
+at least 4g RAM\
+need to install `docker and docker-compose mave`n in linux,linux is a good choice to deployment\
 at root directory to run:\
 ### `mvn package [-DskipTests]` 
 to make jar package.
