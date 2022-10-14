@@ -7,6 +7,6 @@ at root directory to run:\
 ### `mvn package [-DskipTests]` 
 to make jar package.
 at root directory to run:\
-### 'docker-compose -f docker-compose.yml -f docker-compose.dev.yml up' 
+### `docker-compose -f docker-compose.yml -f docker-compose.dev.yml up`
 
 open localhost,and you can see the login page.
